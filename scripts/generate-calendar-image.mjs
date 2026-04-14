@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const ROOT = path.join(__dirname, '..');
-const OUTPUT_PATH = path.join(ROOT, 'public/static/assets/images/calendar.webp');
+const OUTPUT_PATH = path.join(ROOT, 'public/static/assets/images/calendar_nov_2027.webp');
 
 const WIDTH = 1698;
 const HEIGHT = 1862;

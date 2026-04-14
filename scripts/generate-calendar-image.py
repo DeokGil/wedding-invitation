@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 ROOT = Path("c:\\Users\\user\\Desktop\\wedding-invitation-main")
-OUTPUT_PATH = ROOT / "public/static/assets/images/calendar.webp"
+OUTPUT_PATH = ROOT / "public/static/assets/images/calendar_nov_2027.webp"
 
 WIDTH = 1698
 HEIGHT = 1862
