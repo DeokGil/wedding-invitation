@@ -113,8 +113,8 @@
 			"mother_label": "어머니"
 		},
 		"d_day": {
-			"prefix": "기훈",
-			"suffix": "슬비의 결혼식이",
+			"prefix": "덕길",
+			"suffix": "지원의 결혼식이",
 			"symbol": "♥︎"
 		},
 		"gallery": {
@@ -194,7 +194,7 @@
 				"native": "공유하기"
 			},
 			"kakao_share": {
-				"title": "💒 기훈 ♥ 슬비의 결혼식",
+				"title": "💒 덕길 ♥ 지원의 결혼식",
 				"description": "2026년 08월 08일 (토) 오후 2시\n합정 웨딩시그니처 4F 아너스홀에서 진행됩니다.\n\n소중한 분을 모시고 참석해주시면 감사하겠습니다.",
 				"button_title": "청첩장 보기"
 			}
