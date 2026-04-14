@@ -3,7 +3,7 @@ import calendar
 from PIL import Image, ImageDraw, ImageFont
 
 
-ROOT = Path("/Users/marco/workspace/wedding-invitation")
+ROOT = Path("c:\\Users\\user\\Desktop\\wedding-invitation-main")
 OUTPUT_PATH = ROOT / "public/static/assets/images/calendar.webp"
 
 WIDTH = 1698
@@ -42,7 +42,7 @@ def draw_calendar():
 
     # Top text
     draw_centered_text(draw, "2027년 11월 1일 | 오후 2시", 130, ko_title_font, TEXT_MAIN)
-    draw_centered_text(draw, "Saturday, August 8, 2026 | PM 2:00", 275, en_title_font, TEXT_SUB)
+    draw_centered_text(draw, "Monday, November 1, 2027 | PM 2:00", 275, en_title_font, TEXT_SUB)
 
     # Divider lines
     draw.line([(24, 527), (WIDTH - 24, 527)], fill=LINE, width=4)
@@ -60,9 +60,9 @@ def draw_calendar():
         color = TEXT_SUN if idx == 0 else TEXT_DARK
         draw.text((x, header_y), label, font=weekday_font, fill=color, anchor="mm")
 
-    # August 2026 (Sunday-first)
+    # November 2027 (Sunday-first)
     cal = calendar.Calendar(firstweekday=6)
-    weeks = cal.monthdayscalendar(2026, 8)
+    weeks = cal.monthdayscalendar(2027, 11)
 
     first_row_y = 910
     row_step = 170
@@ -76,7 +76,7 @@ def draw_calendar():
             x = int(left + col_idx * col_step)
 
             # Highlight wedding day
-            if day == 8:
+            if day == 1:
                 draw.ellipse((x - 61, y - 61, x + 61, y + 61), fill=HIGHLIGHT)
                 draw.text((x, y + 2), str(day), font=day_font, fill=(255, 255, 255), anchor="mm")
                 continue

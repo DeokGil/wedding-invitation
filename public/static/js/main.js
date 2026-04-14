@@ -1312,8 +1312,8 @@ window.handleFileSelect = handleFileSelect;
 
 // ==================== Snaps 섹션 업로드 기능 ====================
 
-// 업로드 허용 시작 시간 (한국시간 기준: 2026-08-08 12:00:00)
-const UPLOAD_START_TIME_KST = new Date('2026-08-08T12:00:00+09:00');
+// 업로드 허용 시작 시간 (한국시간 기준: 2027-11-01 12:00:00)
+const UPLOAD_START_TIME_KST = new Date('2027-11-01T12:00:00+09:00');
 
 /**
  * 현재 한국시간이 업로드 허용 시간인지 확인

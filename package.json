@@ -12,6 +12,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "sharp": "^0.34.5",
     "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "canvas": "^3.2.3"
   }
 }
