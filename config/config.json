@@ -21,13 +21,13 @@
 			}
 		},
 		"date": {
-			"year": 2026,
-			"month": 8,
-			"day": 8,
+			"year": 2027,
+			"month": 11,
+			"day": 1,
 			"time": "14:00",
-			"day_of_week": "토",
+			"day_of_week": "월",
 			"display_time": "오후 2시",
-			"iso_format": "2026-08-08T14:00:00"
+			"iso_format": "2027-11-01T14:00:00"
 		},
 		"venue": {
 			"name": "합정 웨딩시그니처 4F 아너스홀",
@@ -75,7 +75,7 @@
 		"page_title": "한덕길 ♥ 문지원의 결혼식에 초대합니다",
 		"meta": {
 			"title": "덕길 ♥ 지원의 결혼식",
-			"description": "2026년 08월 08일 (토) 오후 2시, 합정 웨딩시그니처 4F 아너스홀에서 진행됩니다",
+			"description": "2027년 11월 01일 (월) 오후 2시, 합정 웨딴신근처 4F 아너스홀에서 진행됩니다",
 			"image": "https://qorlgns1.github.io/wedding-invitation/static/assets/images/og-image.webp"
 		},
 		"intro_animation": {
@@ -100,7 +100,7 @@
 		"letter": {
 			"title": "두 사람의 결혼식에 초대합니다.",
 			"header": "I N V I T A T I O N",
-			"content": "8년의 시간,<br>그리고 또 하나의 8이 겹치는 날.<br><br>지구 반대편에서 운명처럼 만나<br>2026년 8월 8일, 사랑의 무한대(∞)를 약속합니다.<br><br>지금처럼, 앞으로도<br>서로의 가장 큰 행복으로 함께하겠습니다."
+			"content": "8년의 시간,<br>그리고 또 하나의 8이 격치는 날.<br><br>지구 반대편에서 운명처럼 만나<br>2027년 11월 1일, 사랑의 무한대(∞)를 약속합니다.<br><br>지금처럼, 앞으로도<br>서로의 가장 큰 행복으로 함께하겠습니다."
 		},
 		"contact_section": {
 			"title": "연락처",

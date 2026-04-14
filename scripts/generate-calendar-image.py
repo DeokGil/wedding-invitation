@@ -41,7 +41,7 @@ def draw_calendar():
     day_font = load_font("/System/Library/Fonts/Helvetica.ttc", 67)
 
     # Top text
-    draw_centered_text(draw, "2026년 8월 8일 | 오후 2시", 130, ko_title_font, TEXT_MAIN)
+    draw_centered_text(draw, "2027년 11월 1일 | 오후 2시", 130, ko_title_font, TEXT_MAIN)
     draw_centered_text(draw, "Saturday, August 8, 2026 | PM 2:00", 275, en_title_font, TEXT_SUB)
 
     # Divider lines

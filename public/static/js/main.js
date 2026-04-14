@@ -1358,7 +1358,7 @@ function openSnapUpload() {
 
     // 한국시간 기준으로 업로드 허용 시간 체크
     if (!isUploadAllowed()) {
-        showToast('2026년 08월 08일 12:00(한국시간)부터 업로드 가능합니다.');
+        showToast('2027년 11월 01일 12:00(한국시간)부터 업로드 가능합니다.');
         return;
     }
 
