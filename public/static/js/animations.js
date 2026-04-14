@@ -16,6 +16,7 @@ class WeddingAnimationManager {
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', () => this.setup());
         } else {
+            
             this.setup();
         }
     }
