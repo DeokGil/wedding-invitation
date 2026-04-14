@@ -1,0 +1,17 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/generate-gallery-manifest.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/generate-gallery-manifest.mjs",
+    "sync:gallery": "node scripts/generate-gallery-manifest.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.1"
+  }
+}

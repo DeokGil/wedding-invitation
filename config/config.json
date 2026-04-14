@@ -1,0 +1,245 @@
+{
+	"wedding": {
+		"groom": {
+			"name_kr": "배기훈",
+			"name_en": "Kihoon",
+			"display_name": "기훈",
+			"birth_order": "장남",
+			"parents": {
+				"father": "배갑천",
+				"mother": "이선미"
+			}
+		},
+		"bride": {
+			"name_kr": "김슬비",
+			"name_en": "Seulbi",
+			"display_name": "슬비",
+			"birth_order": "장녀",
+			"parents": {
+				"father": "김종선",
+				"mother": "박선영"
+			}
+		},
+		"date": {
+			"year": 2026,
+			"month": 8,
+			"day": 8,
+			"time": "14:00",
+			"day_of_week": "토",
+			"display_time": "오후 2시",
+			"iso_format": "2026-08-08T14:00:00"
+		},
+		"venue": {
+			"name": "합정 웨딩시그니처 4F 아너스홀",
+			"address": "합정 웨딩시그니처 4F 아너스홀",
+			"full_address": "합정 웨딩시그니처 4F 아너스홀"
+		}
+	},
+	"accounts": {
+		"groom": [
+			{
+				"name": "배갑천",
+				"bank": "우리은행",
+				"number": "1002-034-705535"
+			},
+			{
+				"name": "이선미",
+				"bank": "우리은행",
+				"number": "1002-034-705535"
+			},
+			{
+				"name": "배기훈",
+				"bank": "카카오뱅크",
+				"number": "3333-01-8224159"
+			}
+		],
+		"bride": [
+			{
+				"name": "김종선",
+				"bank": "국민은행",
+				"number": "3333-20-7595186"
+			},
+			{
+				"name": "박선영",
+				"bank": "국민은행",
+				"number": "3333-20-7595186"
+			},
+			{
+				"name": "김슬비",
+				"bank": "국민은행",
+				"number": "3333-20-7595186"
+			}
+		]
+	},
+	"content": {
+		"page_title": "배기훈 ♥ 김슬비의 결혼식에 초대합니다",
+		"meta": {
+			"title": "기훈 ♥ 슬비의 결혼식",
+			"description": "2026년 08월 08일 (토) 오후 2시, 합정 웨딩시그니처 4F 아너스홀에서 진행됩니다",
+			"image": "https://qorlgns1.github.io/wedding-invitation/static/assets/images/og-image.webp"
+		},
+		"intro_animation": {
+			"scene1": {
+				"main_text": "Kihoon & Seulbi's Wedding Day",
+				"bottom_left": "WEDDING",
+				"bottom_right": "INVITATION"
+			}
+		},
+		"countdown": {
+			"labels": {
+				"days": "DAYS",
+				"hour": "HOUR",
+				"min": "MIN",
+				"sec": "SEC"
+			},
+			"message": "기훈 ♥ 슬비의 결혼식이 {days}일 남았습니다"
+		},
+		"image_share": {
+			"message": "저희의 새로운 시작을<br>함께 해주셔서 감사합니다."
+		},
+		"letter": {
+			"title": "두 사람의 결혼식에 초대합니다.",
+			"header": "I N V I T A T I O N",
+			"content": "8년의 시간,<br>그리고 또 하나의 8이 겹치는 날.<br><br>지구 반대편에서 운명처럼 만나<br>2026년 8월 8일, 사랑의 무한대(∞)를 약속합니다.<br><br>지금처럼, 앞으로도<br>서로의 가장 큰 행복으로 함께하겠습니다."
+		},
+		"contact_section": {
+			"title": "연락처",
+			"subtitle": "궁금한 점이 있으시면 언제든지 연락주세요",
+			"groom_title": "신랑",
+			"bride_title": "신부",
+			"groom_contact_title": "신랑 측 혼주",
+			"bride_contact_title": "신부 측 혼주",
+			"father_label": "아버지",
+			"mother_label": "어머니"
+		},
+		"d_day": {
+			"prefix": "기훈",
+			"suffix": "슬비의 결혼식이",
+			"symbol": "♥︎"
+		},
+		"gallery": {
+			"title": "웨딩 갤러리",
+			"subtitle_en": "GALLERY",
+			"subtitle": "사진을 클릭하면 더 크게 볼 수 있습니다",
+			"total_photos": 4,
+			"nav_buttons": {
+				"prev_aria": "이전 사진",
+				"next_aria": "다음 사진"
+			}
+		},
+		"video_section": {
+			"subtitle_en": "OUR STORY",
+			"title": "우리의 이야기",
+			"subtitle": "두 사람의 소중한 순간들"
+		},
+		"qna_section": {
+			"subtitle_en": "FAQ",
+			"title": "자주 묻는 질문",
+			"subtitle": "궁금한 점들을 모아봤어요"
+		},
+		"account_section": {
+			"subtitle_en": "ACCOUNT",
+			"title": "마음 전하기",
+			"groom_button": "신랑 측 계좌번호",
+			"bride_button": "신부 측 계좌번호",
+			"modal_title_groom": "신랑 측 계좌번호",
+			"modal_title_bride": "신부 측 계좌번호",
+			"copy_button_text": "복사하기",
+			"kakaopay_button_text": "카카오톡 송금",
+			"kakaopay_alt_text": "카카오톡 송금",
+			"copy_success_message": "계좌번호가 복사되었습니다! 💰",
+			"copy_error_message": "복사에 실패했습니다. 다시 시도해주세요."
+		},
+		"location": {
+			"subtitle_en": "INFORMATION",
+			"title": "예식정보 및 안내 사항",
+			"tabs": {
+				"photobooth": "포토 부스",
+				"transport": "교통 수단"
+			},
+			"photobooth_content": {
+				"text": "포토부스가 설치될 예정입니다.<br>귀한 발걸음 해주신 여러분의<br>환한 미소 남겨주시면 소중히 간직하겠습니다."
+			},
+			"copy_address_text": "클릭하면 주소가 복사됩니다",
+			"map_click_hint": "클릭하면 크게 볼 수 있습니다",
+			"map_lightbox_info": "찾아오는 길",
+			"map_buttons": {
+				"naver": "네이버맵",
+				"kakao": "카카오맵",
+				"tmap": "티맵"
+			}
+		},
+		"snaps": {
+			"subtitle_en": "CAPTURE OUR MOMENTS",
+			"title": "Snaps",
+			"description": [
+				"신랑신부의 행복한 순간을 담아주세요.",
+				"예식 당일, 아래 버튼을 통해 사진을 올려주세요.",
+				"많은 참여 부탁드려요!"
+			],
+			"upload_button": "사진 업로드",
+			"upload_modal": {
+				"title": "사진 업로드 중...",
+				"preparing": "업로드 준비 중...",
+				"close_button": "확인"
+			}
+		},
+		"share": {
+			"title": "공유하기",
+			"subtitle": "소중한 분들과 함께 저희의 특별한 날을 공유해주세요",
+			"message": "소중한 분들과 함께 저희의 특별한 날을<br>공유해주세요 💕",
+			"buttons": {
+				"kakao": "카카오톡 공유",
+				"link": "링크 복사",
+				"native": "공유하기"
+			},
+			"kakao_share": {
+				"title": "💒 기훈 ♥ 슬비의 결혼식",
+				"description": "2026년 08월 08일 (토) 오후 2시\n합정 웨딩시그니처 4F 아너스홀에서 진행됩니다.\n\n소중한 분을 모시고 참석해주시면 감사하겠습니다.",
+				"button_title": "청첩장 보기"
+			}
+		},
+		"footer": {
+			"visitor_stats": {
+				"today": "TODAY",
+				"total": "TOTAL"
+			}
+		},
+		"bgm": {
+			"notification": "배경음악이 준비되었습니다"
+		},
+		"modals": {
+			"edit_message": {
+				"title": "메시지 수정",
+				"password_prompt": "작성할 때 입력한 비밀번호를 입력해주세요.",
+				"password_placeholder": "비밀번호 입력",
+				"name_label": "이름",
+				"name_placeholder": "이름을 입력해주세요",
+				"message_label": "메시지",
+				"message_placeholder": "수정할 메시지를 입력해주세요"
+			},
+			"delete_message": {
+				"title": "메시지 삭제",
+				"password_prompt": "작성할 때 입력한 비밀번호를 입력해주세요.",
+				"password_placeholder": "비밀번호 입력"
+			}
+		}
+	},
+	"form_content": {},
+	"external_links": {
+		"maps": {
+			"naver": "https://map.naver.com/v5/search/%ED%95%A9%EC%A0%95%20%EC%9B%A8%EB%94%A9%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98",
+			"kakao": "https://map.kakao.com/?q=%ED%95%A9%EC%A0%95%20%EC%9B%A8%EB%94%A9%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98",
+			"tmap": "https://www.google.com/maps/search/?api=1&query=%ED%95%A9%EC%A0%95%20%EC%9B%A8%EB%94%A9%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98"
+		}
+	},
+	"assets": {
+		"background_music": "/static/assets/audio/wedding-music.mp3",
+		"cover_image": "/static/assets/images/cover.webp",
+		"gallery_path": "/static/assets/images/wedding-snaps/",
+		"map_image": "/static/assets/images/wedding-signature.webp",
+		"share_background_image": "/static/assets/images/couple-bridge.webp",
+		"kakaopay_icon": "/static/assets/images/payment_icon_yellow_small.webp",
+		"kakaotalk_icon": "/static/assets/images/kakaotalk.webp"
+	}
+}

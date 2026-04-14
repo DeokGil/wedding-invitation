@@ -1,0 +1,19 @@
+/* Node deployment overrides */
+
+/* Scope trimmed for this deployment */
+.chatbot-wrapper,
+.snaps-section,
+.video-section,
+#snap-upload-modal {
+  display: none !important;
+}
+
+/* Visitor stats API is removed in this architecture */
+.footer-stats {
+  display: none !important;
+}
+
+/* Keep layout stable after removing sections */
+.share-section {
+  margin-top: 1.5rem;
+}
